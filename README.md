@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Yosef Algaradi 👋</h1>
-<h3 align="center">Data Science Student 📊 | AI & Machine Learning Enthusiast 🤖 | Peer Mentor 🎓</h3>
+<h3 align="center">Data Science Student 📊 | AI & Machine Learning Enthusiast 🤖 | Academic Peer Mentor 🎓</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/yosef-algaradi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yosefalgradi690@gmail.com">
