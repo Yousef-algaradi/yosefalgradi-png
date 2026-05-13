@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Student 📊 | AI & Machine Learning Enthusiast 🤖 | Academic Peer Mentor 🎓</h3>
 
 <p align="center">
-  <a href=["https://www.linkedin.com/in/yosef-algaradi"](https://www.linkedin.com/in/yosef-algradi-74039540a)>
+  <a href=https://www.linkedin.com/in/yosef-algradi-74039540a>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yosefalgradi690@gmail.com">
